@@ -1,7 +1,7 @@
 # Terms of Use for Kity Pay
 
-**Effective Date:** July 25, 202  
-**Last Updated:** July 25, 202
+**Effective Date:** July 25, 2025  
+**Last Updated:** July 25, 2025
 
 ## 1. Agreement to Terms
 
