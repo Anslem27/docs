@@ -9,10 +9,10 @@ Welcome to Kity Pay, a financial application operated by TekJuice. We are commit
 
 **Contact Information:**
 
-- **Company:** TekJuice
-- **Website:** https://tekjuice.co.uk
-- **Phone:** 0116 478 8787
-- **Email:** dev@tekjuice.xyz
+- **Company:** Kity Pay
+- **Website:** https://kitypay.com/
+- **Phone:** +256 773 102176
+- **Email:** info@kitipay.com
 
 ## 2. Information We Collect
 
@@ -208,10 +208,10 @@ We will notify you of significant changes through:
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your personal information, please contact us:
 
-**TekJuice**  
-**Website:** https://tekjuice.co.uk  
-**Phone:** 0116 478 8787  
-**Email:** dev@tekjuice.xyz
+- **Kity Pay**
+- **Website:** https://kitypay.com/
+- **Phone:** +256 773 102176
+- **Email:** info@kitipay.com
 
 For privacy-specific inquiries, please include "Privacy Policy - Kity Pay" in your subject line.
 

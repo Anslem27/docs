@@ -9,10 +9,10 @@ By downloading, installing, or using the Kity Pay mobile application ("App"), yo
 
 **Service Provider:**
 
-- **Company:** TekJuice
-- **Website:** https://tekjuice.co.uk
-- **Phone:** 0116 478 8787
-- **Email:** dev@tekjuice.xyz
+- **Company:** Kity Pay
+- **Website:** https://kitypay.com/
+- **Phone:** +256 773 102176
+- **Email:** info@kitipay.com
 
 ## 2. Description of Services
 
@@ -310,10 +310,10 @@ Provisions that by their nature should survive termination will continue after t
 
 For questions about these Terms of Use, please contact us:
 
-**TekJuice**  
-**Website:** https://tekjuice.co.uk  
-**Phone:** 0116 478 8787  
-**Email:** dev@tekjuice.xyz
+- **Kity Pay**
+- **Website:** https://kitypay.com/
+- **Phone:** +256 773 102176
+- **Email:** info@kitipay.com
 
 For legal inquiries, please include "Terms of Use - Kity Pay" in your subject line.
 
