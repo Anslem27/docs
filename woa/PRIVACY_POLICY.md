@@ -1,91 +1,107 @@
-# 📜 Privacy Policy for World of Afrika
+# Privacy Policy for World of Afrika
 
-Effective Date: November 7, 2025.
+_**Effective Date: November 7, 2025**_
 
-This Privacy Policy describes how we collect, use, and disclose your information when you use the World of Afrika mobile application (the "App").
+## 1. Introduction
 
-1. Our Commitment to Your Privacy
+World of Afrika ("we," "our," or "us") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
 
-We are committed to protecting your personal information. Our App operates primarily as a digital product catalogue and lead generation tool. We only collect the necessary information required to facilitate an inquiry about a product and connect you with a sales representative to complete a purchase off the App.
+Please read this policy carefully. By using the App, you agree to the practices described herein. If you do not agree, please do not access or use the App.
 
-2. Information We Collect
+## 2. Information We Collect
 
-We collect information in two main ways: Information You Provide and Information Collected Automatically.
+We collect information that you voluntarily provide to us and information that is collected automatically.
 
-A. Information You Provide (Voluntarily)
+### A. Personal Data You Provide Voluntarily
 
-This is the Personal Data we collect directly from you when you submit a Product Inquiry Form within the App. This information is necessary for us to contact you and help you make a purchase.
+When you submit a Product Inquiry Form, we collect the following personal data:
 
-Contact Information:
+- **Contact Information:** Your first and last name, email address, and phone number.
+- **Inquiry Details:** The specific product name, SKU, and price you are inquiring about.
 
-First and Last Name
+### B. Information Collected Automatically
 
-Email Address
+- **Usage Data:** We automatically collect information about your interaction with the App. This includes your device's Internet Protocol (IP) address, device type, operating system version, app crash reports, and other diagnostic data.
+- **Analytics Data:** We use third-party services, such as Google Analytics, to collect, monitor, and analyze this data to improve the App's functionality and user experience. This data is generally aggregated and anonymized.
 
-Phone Number (Contact Information)
+## 3. Legal Basis for Processing (For EEA/UK Users)
 
-Inquiry Data: Information related to the specific product you are interested in (e.g., product name, SKU, price).
+If you are located in the European Economic Area (EEA) or the UK, we process your personal data on the following legal bases:
 
-B. Information Collected Automatically (Usage Data)
+- **Performance of a Contract:** Processing your inquiry and connecting you with a sales representative is necessary to take steps at your request prior to entering into a purchase agreement.
+- **Legitimate Interests:** We have a legitimate interest in using your usage data to improve our App and ensure its security.
+- **Consent:** In specific cases where required by law, we will ask for your explicit consent before processing your data.
 
-When you access the App, we may automatically collect certain non-personal information sent by your device.
+## 4. How We Use Your Information
 
-Log Data: Device IP address, device type, operating system version, mobile network information, and usage patterns within the App (e.g., pages viewed, time spent in the App, the date and time of your visit).
+We use the information we collect for the following purposes:
 
-Analytics: We may use third-party tools (such as Google Analytics) to help us analyze and improve the performance of our App. This data is typically aggregated and anonymized.
+- **To Fulfill Your Request:** To process your product inquiry and share your contact and inquiry details with our internal sales team so they can contact you.
+- **Customer Support:** To respond to your comments, questions, and requests, and provide customer support.
+- **App Improvement & Analytics:** To analyze usage trends, understand how users interact with our App, and develop new products, services, features, and functionality.
+- **Security and Compliance:** To maintain the safety, security, and integrity of our App, and to comply with legal obligations and protect our legal rights.
 
-3. How We Use Your Information
+## 5. How We Share Your Information
 
-We use the information we collect for the following specific purposes:
+We do not **sell** your personal information. We may share your information in the following limited circumstances:
 
-Lead Generation & Sales Outreach: To contact you directly via the email address or phone number you provided to discuss the product inquiry, confirm details, and finalize the purchase through our off-app sales channels.
+- **Internally:** With our authorized employees and sales representatives who need the information to contact you regarding your product inquiry.
+- **Service Providers (Data Processors):** We share your data with trusted third-party vendors who perform services on our behalf, such as:
 
-Customer Support: To respond to your requests, questions, or concerns.
+  - **Cloud Hosting Services** (e.g., Amazon Web Services, Google Cloud Platform)
+  - **Analytics Providers** (e.g., Google Analytics)
+  - **Communication Tools** (e.g., email delivery services)
 
-App Improvement: To monitor and analyze usage and activity trends to improve the App's functionality and user experience.
+  These vendors are contractually obligated to handle your data confidentially and only for the purposes we have specified.
 
-Legal Compliance: To comply with legal obligations and protect our legal rights.
+- **Legal Obligations:** We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency).
+- **Business Transfers:** In the event of a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred to the new entity.
 
-4. How We Share Your Information
+## 6. International Data Transfers
 
-We do not sell your personal information. We only disclose your information in the following limited circumstances:
+Your personal data may be transferred to —and maintained on— computers located outside of your state, province, country, or other governmental jurisdiction where the data protection laws may differ. For users in the EEA or UK, this may involve transfers to countries like Uganda. We will ensure that any such transfers are made subject to appropriate safeguards, such as standard contractual clauses, to ensure that your data is protected as required by applicable law.
 
-With Our Internal Sales Team: We share the Contact Information you provide with our dedicated sales and customer service staff solely for the purpose of completing your requested purchase.
+## 7. Data Security
 
-With Service Providers: We may share data with third-party vendors who perform services on our behalf, such as cloud hosting providers, email service providers, or analytics platforms. These providers are obligated to protect your data.
+We implement administrative, technical, and physical security measures designed to protect your personal data from unauthorized access, loss, and alteration. These measures include encryption, access controls, and secure server infrastructure. However, no method of transmission over the Internet or electronic storage is 100% secure, and we cannot guarantee its absolute security.
 
-Legal Requirements: If required to do so by law or in response to valid requests by public authorities (e.g., a court order or government agency).
+## 8. Data Retention
 
-5. Data Security
+We will retain your personal data only for as long as is necessary for the purposes set out in this policy, or as required to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-We implement commercially reasonable technical and organizational security measures designed to protect the security of any Personal Data we process. However, no electronic transmission or storage method is 100% secure. While we strive to protect your data, we cannot guarantee its absolute security.
+- **Inquiry Data:** We will typically retain the data from your product inquiry for **24 months** to allow for a complete sales cycle and follow-up. You may request earlier deletion.
+- **Usage Data:** We retain aggregated and anonymized usage data indefinitely to help us improve our services.
 
-6. Data Retention
+## 9. Your Data Rights and Choices
 
-We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy, typically for the duration required to complete your purchase inquiry and maintain necessary business records, or until you request its deletion.
+Depending on your location, you may have the following rights regarding your personal data:
 
-7. Your Data Rights
+- **Right of Access:** You can request a copy of the personal data we hold about you.
+- **Right to Rectification:** You can correct any inaccurate or incomplete data.
+- **Right to Erasure ("Right to be Forgotten"):** You can request that we delete your personal data.
+- **Right to Restriction of Processing:** You can request that we temporarily or permanently stop processing all or some of your personal data.
+- **Right to Data Portability:** You can request a structured, machine-readable copy of your data to transfer to another service.
+- **Right to Object:** You can object to our processing of your personal data.
 
-Depending on your location, you may have the following rights regarding your Personal Data:
+To exercise any of these rights, please contact us at **Wensi@tekjuice.co.uk**. We will respond to your request within the timeframe required by applicable law. We may need to verify your identity before processing your request.
 
-Right of Access: The right to request copies of the Personal Data we hold about you.
+You have the right to lodge a complaint with a supervisory authority in your country of residence.
 
-Right to Rectification: The right to request that we correct any information you believe is inaccurate or incomplete.
+## 10. Children's Privacy
 
-Right to Erasure ("Right to be Forgotten"): The right to request that we delete your Personal Data, under certain conditions.
+Our App is not intended for individuals under the age of **13**. We do not knowingly collect personal data from children under 13. If we become aware that we have collected such data, we will take steps to delete it promptly.
 
-To exercise any of these rights, please contact us using the information in Section 9.
+## 11. Changes to This Privacy Policy
 
-8. Children's Privacy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the "Effective Date" at the top. We encourage you to review this policy periodically for any changes.
 
-Our App is not intended for use by anyone under the age of 13. We do not knowingly collect Personal Data from anyone under 13. If we become aware that we have collected Personal Data from a child under 13 without verifiable parental consent, we will take steps to remove that information from our servers.
-
-9. Contact Us
+## 12. Contact Us
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
-Company: Tek Juice
+**Company:** Tek Juice  
+**Data Protection Contact:** Wensi  
+**Email:** Wensi@tekjuice.co.uk  
+**Address:** Plot 19 Binayomba Road, Bugolobi, Kampala - Uganda
 
-Email: Wensi@tekjuice.co.uk
-
-Mailing Address: Plot 19 Binayomba Road, Bugolobi, Kampala - Uganda
+---
