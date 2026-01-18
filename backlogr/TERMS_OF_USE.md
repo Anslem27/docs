@@ -10,13 +10,19 @@ By using the App, you confirm that you are at least 13 years of age (or the equi
 
 ## 2. Description of the App
 
-Backlogr is designed to help users manage and track backlogs for tasks, games, or other activities. Features include creating and organizing backlogs, enabling backups via third-party services (e.g., Google Drive), and accessing premium or plus account features through subscriptions.
+Backlogr is designed to help users manage and track backlogs for tasks, games, or other activities. Features include:
+
+- Creating and organizing backlogs locally on your device
+- Optional cloud synchronization via Firebase Firestore for syncing data across multiple devices
+- Optional temporary cloud backups through our Null Ptr Service
+- Premium or plus account features available through subscriptions processed by third-party payment providers
+- Analytics and crash reporting to improve app performance and stability
 
 ## 3. Account and Third-Party Services
 
-- **Account Creation:** To access certain features, such as data backups or synchronization, you may need to link an account with a third-party service (e.g., Google Drive). You are responsible for maintaining the confidentiality of your account credentials and complying with the third-party service’s terms and policies.
-- **Premium/Plus Accounts:** Premium or plus features are available through subscriptions processed via Google Play Billing. Subscription terms, including pricing and renewals, are governed by Google Play’s policies. We do not manage or store your payment information.
-- **Account Responsibility:** You are responsible for all activities under your account. Notify us immediately at anslembarn@gmail.com if you suspect unauthorized use.
+- **Account Creation:** To access certain features, such as cloud data synchronization or backups, you may need to authenticate with a third-party service. Your use of third-party services (including Firebase Firestore and our Null Ptr Service) is subject to their respective terms and privacy policies. You are responsible for maintaining the confidentiality of your account credentials and complying with all applicable third-party terms.
+- **Premium/Plus Accounts:** Premium or plus features are available through subscriptions processed via third-party payment providers. Subscription terms, including pricing, billing cycles, and renewals, are governed by the payment provider's policies. We do not manage, process, or store your payment information directly.
+- **Account Responsibility:** You are solely responsible for all activities conducted under your account and for maintaining the security of your credentials. You must immediately notify us at anslembarn@gmail.com if you suspect any unauthorized access or use of your account.
 
 ## 4. License to Use the App
 
@@ -29,15 +35,15 @@ We grant you a non-exclusive, non-transferable, revocable license to use the App
 
 ## 5. User Content
 
-- **Your Content:** Any data you input into the App, such as backlogs, lists, or notes, is your responsibility. You grant us a non-exclusive, worldwide, royalty-free license to use, store, and process this content to provide App functionalities (e.g., backups, synchronization).
-- **Backups:** If you enable backups via third-party services, your content is subject to the third-party provider’s terms and privacy policies.
-- **Prohibited Content:** You may not upload or share content that is illegal, harmful, offensive, or violates others’ rights.
+- **Your Content:** Any data you input into the App, such as backlogs, lists, or notes, remains your property and is your responsibility. By default, all content is stored locally on your device. If you choose to enable cloud synchronization or backup features, you grant us a non-exclusive, worldwide, royalty-free license to use, store, transmit, and process this content solely to provide App functionalities (e.g., cloud backups via our Null Ptr Service, device synchronization via Firebase Firestore).
+- **Cloud Storage:** If you enable cloud synchronization or backups, your content will be stored on third-party servers (Firebase Firestore and our Null Ptr Service) and is subject to their respective terms of service and privacy policies. You acknowledge that temporary cloud backups may be retained for a limited period as specified in our backup retention policies.
+- **Prohibited Content:** You may not upload, store, or share content through the App that is illegal, harmful, defamatory, offensive, infringing on intellectual property rights, or otherwise violates applicable laws or the rights of others.
 
 ## 6. Subscriptions and Payments
 
-- **Premium Subscriptions:** Premium or plus accounts are managed through Google Play. You agree to pay all applicable fees as per Google Play’s billing terms.
-- **Cancellations and Refunds:** Subscription cancellations and refunds are handled by Google Play. Contact Google Play Support for assistance.
-- **Changes to Fees:** We may modify subscription fees with notice via the App or email. Continued use after changes constitutes acceptance.
+- **Premium Subscriptions:** Premium or plus accounts are managed through third-party payment providers, which may include Google Play, Apple App Store, or other authorized payment processors. You agree to pay all applicable fees, taxes, and charges in accordance with the payment provider's billing terms and policies.
+- **Cancellations and Refunds:** Subscription cancellations, refunds, and billing disputes are handled exclusively by the applicable third-party payment provider. Contact the payment provider's support services directly for assistance with billing matters.
+- **Changes to Fees:** We reserve the right to modify subscription pricing, features, or terms at any time. You will be notified of material changes via the App, email, or other reasonable means. Your continued use of premium features after such changes take effect constitutes your acceptance of the modified terms and pricing.
 
 ## 7. Intellectual Property
 
@@ -54,20 +60,21 @@ You agree not to:
 
 ## 9. Termination
 
-We may suspend or terminate your access to the App at our discretion if you violate these Terms, engage in prohibited conduct, or for any other reason. You may stop using the App at any time by uninstalling it and canceling any subscriptions through Google Play.
+We may suspend or terminate your access to the App at our sole discretion if you violate these Terms, engage in prohibited conduct, fail to pay applicable subscription fees, or for any other reason with or without prior notice. You may stop using the App at any time by uninstalling it from your device(s) and canceling any active subscriptions through the applicable third-party payment provider (e.g., Google Play, Apple App Store).
 
 Upon termination:
 
-- Your license to use the App ends.
-- You must cease all use of the App.
-- Data stored locally may remain on your device unless deleted; cloud backups are subject to third-party provider policies.
+- Your license to use the App ends immediately.
+- You must cease all use of the App and uninstall it from your devices.
+- Data stored locally on your device may remain unless you manually delete it.
+- Cloud backups stored via Firebase Firestore and our Null Ptr Service are subject to their respective retention and deletion policies. You may need to contact the respective service providers to ensure complete data removal.
 
 ## 10. Disclaimers and Limitation of Liability
 
-- **As-Is Basis:** The App is provided "as is" without warranties of any kind, express or implied, including fitness for a particular purpose or non-infringement.
-- **No Guarantee of Availability:** We do not guarantee uninterrupted access to the App or its features. Third-party services (e.g., Google Drive) may affect functionality.
-- **Limitation of Liability:** To the maximum extent permitted by law, Backlogr Devs, its developers, and affiliates will not be liable for any indirect, incidental, or consequential damages arising from your use of the App, including loss of data or profits. Our total liability is limited to the amount you paid for the App, if any.
-- **Third-Party Services:** We are not responsible for the availability, security, or practices of third-party services linked to the App.
+- **As-Is Basis:** The App is provided on an "as is" and "as available" basis without warranties of any kind, whether express, implied, or statutory, including but not limited to warranties of merchantability, fitness for a particular purpose, title, or non-infringement.
+- **No Guarantee of Availability:** We do not guarantee continuous, uninterrupted, secure, or error-free access to the App or its features. Third-party services (including Firebase Firestore, our Null Ptr Service, Microsoft Clarity, and payment processors) may experience outages or interruptions that affect App functionality, and we are not liable for such disruptions.
+- **Limitation of Liability:** To the maximum extent permitted by applicable law, Backlogr Devs, its developers, officers, directors, employees, agents, and affiliates shall not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages arising from or related to your use of the App, including but not limited to loss of data, loss of profits, business interruption, or personal injury, whether based on warranty, contract, tort (including negligence), statute, or any other legal theory, even if we have been advised of the possibility of such damages. In jurisdictions that do not allow the exclusion or limitation of liability for consequential or incidental damages, our liability is limited to the maximum extent permitted by law. In any event, our total aggregate liability shall not exceed the amount you paid to us for the App in the twelve (12) months preceding the claim, or one hundred U.S. dollars ($100.00), whichever is greater.
+- **Third-Party Services:** We are not responsible for and expressly disclaim all liability related to the availability, accuracy, reliability, security, privacy practices, or content of third-party services integrated with or accessible through the App, including Firebase Firestore, our Null Ptr Service, Microsoft Clarity, and payment processors. Your use of third-party services is governed solely by their respective terms and policies.
 
 ## 11. Indemnity
 
@@ -83,14 +90,14 @@ These Terms are governed by the laws of Uganda, without regard to conflict of la
 
 ## 14. Contact Us
 
-For questions about these Terms, please contact:
+For questions about these Terms or general App support, please contact:
 
 - **Developer:** Anslem Seguya
 - **Email:** anslembarn@gmail.com
 - **Phone:** +256 784 491 735
 - **Group:** Backlogr Devs
 
-For support with subscriptions, contact Google Play Support directly.
+For support with subscriptions, billing issues, or payment disputes, please contact the applicable third-party payment provider directly (e.g., Google Play Support, Apple Support).
 
 ## 15. Miscellaneous
 
