@@ -57,6 +57,7 @@ We may share your information in limited circumstances:
   - Third-party payment processors for managing premium subscriptions
 
   These providers are contractually obligated to protect your data and use it solely for the services they provide to us.
+
 - **Legal Requirements:** If required by law, subpoena, court order, or government request, or to prevent harm, fraud, or illegal activities.
 - **Business Transfers:** In the event of a merger, acquisition, or sale of assets, your information may be transferred to the acquiring entity.
 
@@ -108,10 +109,8 @@ We may update this Policy to reflect changes in our practices or legal requireme
 If you have questions about this Privacy Policy or your data, please contact:
 
 - **Developer:** Anslem Seguya
-- **Email:** anslembarn@gmail.com
+- **Email:** support@backlogr.site
 - **Phone:** +256 784 491 735
 - **Group:** Backlogr Devs
 
 For support related to Google Play subscriptions, contact Google Play Support directly.
-
-This Privacy Policy is governed by the laws of Uganda, without regard to conflict of law principles.

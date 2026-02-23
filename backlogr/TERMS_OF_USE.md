@@ -22,7 +22,7 @@ Backlogr is designed to help users manage and track backlogs for tasks, games, o
 
 - **Account Creation:** To access certain features, such as cloud data synchronization or backups, you may need to authenticate with a third-party service. Your use of third-party services (including Firebase Firestore and our Null Ptr Service) is subject to their respective terms and privacy policies. You are responsible for maintaining the confidentiality of your account credentials and complying with all applicable third-party terms.
 - **Premium/Plus Accounts:** Premium or plus features are available through subscriptions processed via third-party payment providers. Subscription terms, including pricing, billing cycles, and renewals, are governed by the payment provider's policies. We do not manage, process, or store your payment information directly.
-- **Account Responsibility:** You are solely responsible for all activities conducted under your account and for maintaining the security of your credentials. You must immediately notify us at anslembarn@gmail.com if you suspect any unauthorized access or use of your account.
+- **Account Responsibility:** You are solely responsible for all activities conducted under your account and for maintaining the security of your credentials. You must immediately notify us at support@backlogr.site if you suspect any unauthorized access or use of your account.
 
 ## 4. License to Use the App
 
@@ -93,7 +93,7 @@ These Terms are governed by the laws of Uganda, without regard to conflict of la
 For questions about these Terms or general App support, please contact:
 
 - **Developer:** Anslem Seguya
-- **Email:** anslembarn@gmail.com
+- **Email:** support@backlogr.site
 - **Phone:** +256 784 491 735
 - **Group:** Backlogr Devs
 
