@@ -99,7 +99,21 @@ For questions about these Terms or general App support, please contact:
 
 For support with subscriptions, billing issues, or payment disputes, please contact the applicable third-party payment provider directly (e.g., Google Play Support, Apple Support).
 
-## 15. Miscellaneous
+## 15. Apple App Store — Additional Terms
+
+If you downloaded the App from the Apple App Store, the following additional terms apply:
+
+- **Acknowledgement:** You and Backlogr Devs acknowledge that this Agreement is concluded between you and Backlogr Devs only, and not with Apple Inc. ("Apple"). Backlogr Devs, not Apple, is solely responsible for the App and its content.
+- **Scope of License:** The license granted to you for the App is limited to a non-transferable license to use the App on any Apple-branded products that you own or control and as permitted by the Usage Rules set forth in the Apple Media Services Terms and Conditions.
+- **Maintenance and Support:** Backlogr Devs is solely responsible for providing any maintenance and support services with respect to the App, as specified in this Agreement, or as required under applicable law. Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the App.
+- **Warranty:** In the event of any failure of the App to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the App to you (if any). To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App, and any other claims, losses, liabilities, damages, costs, or expenses attributable to any failure to conform to any warranty will be Backlogr Devs' sole responsibility.
+- **Product Claims:** Backlogr Devs, not Apple, is responsible for addressing any claims by you or any third party relating to the App or your possession and/or use of the App, including but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation.
+- **Intellectual Property Rights:** In the event of any third-party claim that the App or your possession and use of the App infringes that third party's intellectual property rights, Backlogr Devs, not Apple, will be solely responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim.
+- **Legal Compliance:** You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+- **Third-Party Beneficiary:** You and Backlogr Devs acknowledge and agree that Apple, and Apple's subsidiaries, are third-party beneficiaries of this Agreement, and that, upon your acceptance of the terms and conditions of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary thereof.
+- **Developer Contact:** For any questions, complaints, or claims regarding the App, please contact: Anslem Seguya, support@backlogr.site.
+
+## 16. Miscellaneous
 
 - **Entire Agreement:** These Terms, along with our Privacy Policy, constitute the entire agreement between you and Backlogr Devs regarding the App.
 - **Severability:** If any provision of these Terms is found invalid, the remaining provisions remain enforceable.
