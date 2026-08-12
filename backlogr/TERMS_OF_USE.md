@@ -1,122 +1,265 @@
 # Terms of Use for Backlogr
 
-**Effective Date: August 30, 2025**
+**Effective Date: August 12, 2026**
 
-Welcome to Backlogr, a mobile application developed by Backlogr Devs ("we," "us," or "our"). These Terms of Use ("Terms") govern your access to and use of the Backlogr mobile application (the "App"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, please do not use the App.
+These Terms of Use ("Terms") govern your use of Backlogr, a game backlog and
+social tracking service operated by Backlogr Devs ("Backlogr", "we", "us", or
+"our"). They apply to the Backlogr mobile application, the companion web
+application at https://app.backlogr.site, and related services.
 
-## 1. Acceptance of Terms
+By downloading, accessing, or using Backlogr, you agree to these Terms and our
+[Privacy Policy](PRIVACY_POLICY.md). If you do not agree, do not use Backlogr.
 
-By using the App, you confirm that you are at least 13 years of age (or the equivalent minimum age in your jurisdiction) and have the legal capacity to enter into these Terms. If you are using the App on behalf of an organization, you represent that you have the authority to bind that organization to these Terms.
+## 1. Eligibility
 
-## 2. Description of the App
+You must be at least 13 years old, or the minimum age required in your
+jurisdiction, to use Backlogr. If you are below the age of legal majority,
+your parent or legal guardian must permit your use where required by law. You
+may not use Backlogr if doing so would violate applicable law or sanctions.
 
-Backlogr is designed to help users manage and track backlogs for tasks, games, or other activities. Features include:
+## 2. The Backlogr Service
 
-- Creating and organizing backlogs locally on your device
-- Optional cloud synchronization via Firebase Firestore for syncing data across multiple devices
-- Optional temporary cloud backups through our Null Ptr Service
-- Premium or plus account features available through subscriptions processed by third-party payment providers
-- Analytics and crash reporting to improve app performance and stability
+Backlogr helps you track games and related activities, maintain a profile, and
+optionally connect with friends. Features may include:
 
-## 3. Account and Third-Party Services
+- Local backlog, list, rating, note, wishlist, and play-session tracking.
+- A Supabase-backed Backlogr account and profile.
+- Google or Discord sign-in, where available in your app version and region.
+- Profiles with usernames, display names, rich-text bios, selected avatars,
+  backgrounds, and profile visibility controls.
+- Optional friend requests, friendships, activity events, co-play discovery,
+  and in-app or push notifications.
+- Device registration and offline caching for signed-in mobile users.
+- Plus features and entitlements verified through the relevant app store or
+  payment provider.
 
-- **Account Creation:** To access certain features, such as cloud data synchronization or backups, you may need to authenticate with a third-party service. Your use of third-party services (including Firebase Firestore and our Null Ptr Service) is subject to their respective terms and privacy policies. You are responsible for maintaining the confidentiality of your account credentials and complying with all applicable third-party terms.
-- **Premium/Plus Accounts:** Premium or plus features are available through subscriptions processed via third-party payment providers. Subscription terms, including pricing, billing cycles, and renewals, are governed by the payment provider's policies. We do not manage, process, or store your payment information directly.
-- **Account Responsibility:** You are solely responsible for all activities conducted under your account and for maintaining the security of your credentials. You must immediately notify us at support@backlogr.site if you suspect any unauthorized access or use of your account.
+Backlogr is not a messaging service. It does not provide private chat, and
+co-play features do not create a communication channel between users.
 
-## 4. License to Use the App
+Features may be changed, limited, suspended, or discontinued. The mobile app
+is currently the place where a new Backlogr account is created; web access and
+other platform access may be limited by account tier and product rollout.
 
-We grant you a non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes, subject to these Terms. You may not:
+## 3. Accounts and Authentication
 
-- Modify, reverse-engineer, or decompile the App.
-- Distribute, sell, or sublicense the App.
-- Use the App for illegal or unauthorized purposes.
-- Remove or alter any copyright, trademark, or proprietary notices.
+Some features require a Backlogr account. When you sign in with Google or
+Discord, you authorize the selected provider to authenticate you and provide
+the basic identity information needed to create or access your Backlogr
+account. You must comply with the provider’s terms and keep your provider
+account secure.
 
-## 5. User Content
+You must provide accurate information, choose a username that you are entitled
+to use, and not impersonate another person or organization. You are
+responsible for activity performed through your account and must promptly
+contact support@backlogr.site if you suspect unauthorized access.
 
-- **Your Content:** Any data you input into the App, such as backlogs, lists, or notes, remains your property and is your responsibility. By default, all content is stored locally on your device. If you choose to enable cloud synchronization or backup features, you grant us a non-exclusive, worldwide, royalty-free license to use, store, transmit, and process this content solely to provide App functionalities (e.g., cloud backups via our Null Ptr Service, device synchronization via Firebase Firestore).
-- **Cloud Storage:** If you enable cloud synchronization or backups, your content will be stored on third-party servers (Firebase Firestore and our Null Ptr Service) and is subject to their respective terms of service and privacy policies. You acknowledge that temporary cloud backups may be retained for a limited period as specified in our backup retention policies.
-- **Prohibited Content:** You may not upload, store, or share content through the App that is illegal, harmful, defamatory, offensive, infringing on intellectual property rights, or otherwise violates applicable laws or the rights of others.
+Supabase Auth manages Backlogr authentication sessions. Backlogr does not ask
+for or store your Google or Discord password, OAuth client secret, or payment
+card number.
 
-## 6. Subscriptions and Payments
+## 4. Device Access and Sessions
 
-- **Premium Subscriptions:** Premium or plus accounts are managed through third-party payment providers, which may include Google Play, Apple App Store, or other authorized payment processors. You agree to pay all applicable fees, taxes, and charges in accordance with the payment provider's billing terms and policies.
-- **Cancellations and Refunds:** Subscription cancellations, refunds, and billing disputes are handled exclusively by the applicable third-party payment provider. Contact the payment provider's support services directly for assistance with billing matters.
-- **Changes to Fees:** We reserve the right to modify subscription pricing, features, or terms at any time. You will be notified of material changes via the App, email, or other reasonable means. Your continued use of premium features after such changes take effect constitutes your acceptance of the modified terms and pricing.
+You may sign in on multiple mobile installations subject to the limits shown by
+your account. Free accounts may have no more than two active registered
+devices at a time. You may revoke a device through the device-management
+controls when available. Revoking a device may sign it out or prevent it from
+using account features until it is registered again.
 
-## 7. Intellectual Property
+You are responsible for maintaining the security of your devices. Local caches
+may remain on a device after sign-out or uninstall until cleared by the
+operating system or the user.
 
-The App, including its design, code, and branding, is owned by Backlogr Devs or our licensors and protected by copyright, trademark, and other laws. "Backlogr" and related logos are our trademarks. You may not use them without prior written permission.
+## 5. User Content and Profiles
 
-## 8. Prohibited Conduct
+You retain ownership of content you submit to Backlogr, including backlog
+data, notes, ratings, lists, bios, profile names, uploaded avatars,
+backgrounds, screenshots, and activity information ("User Content"). You are
+responsible for having the rights and permissions needed to submit it.
 
-You agree not to:
+You grant Backlogr a non-exclusive, worldwide, royalty-free license to host,
+store, reproduce, format, transmit, display, and technically process your User
+Content only as reasonably necessary to operate, secure, improve, and provide
+the Backlogr service. This license ends when the relevant content is deleted,
+except for limited copies retained for legal, security, backup, or dispute-
+resolution purposes.
 
-- Use the App to engage in illegal activities or violate applicable laws.
-- Attempt to gain unauthorized access to the App or its systems.
-- Interfere with the App’s functionality or other users’ experience.
-- Use automated tools (e.g., bots, scrapers) to access or extract data from the App.
+If you select a public or friends-only profile or activity setting, you
+authorize Backlogr to display the corresponding content to the audience
+allowed by that setting. Do not publish sensitive personal information in a
+public profile or biography. Connected platform information is shown according
+to the visibility controls available for that connection.
 
-## 9. Termination
+## 6. User Content Rules and Social Safety
 
-We may suspend or terminate your access to the App at our sole discretion if you violate these Terms, engage in prohibited conduct, fail to pay applicable subscription fees, or for any other reason with or without prior notice. You may stop using the App at any time by uninstalling it from your device(s) and canceling any active subscriptions through the applicable third-party payment provider (e.g., Google Play, Apple App Store).
+You must not submit, upload, link to, or distribute User Content that:
 
-Upon termination:
+- Is unlawful, fraudulent, threatening, harassing, hateful, abusive, or
+  sexually exploitative.
+- Infringes copyright, trademark, privacy, publicity, or other rights.
+- Contains malware, malicious code, unauthorized credentials, or attempts to
+  exploit Backlogr or another user.
+- Impersonates another person, misrepresents an affiliation, or exposes
+  another person’s private information.
+- Is designed to spam, manipulate, scrape, disrupt, or abuse the social layer.
 
-- Your license to use the App ends immediately.
-- You must cease all use of the App and uninstall it from your devices.
-- Data stored locally on your device may remain unless you manually delete it.
-- Cloud backups stored via Firebase Firestore and our Null Ptr Service are subject to their respective retention and deletion policies. You may need to contact the respective service providers to ensure complete data removal.
+We may review, restrict, remove, or disable User Content or accounts that we
+reasonably believe violate these Terms, our policies, applicable law, or user
+safety. We may preserve relevant information when legally required or needed
+to investigate abuse. Report a concern to support@backlogr.site. Blocking and
+privacy controls may also limit profile, activity, friendship, and notification
+interactions.
 
-## 10. Disclaimers and Limitation of Liability
+## 7. Acceptable Use
 
-- **As-Is Basis:** The App is provided on an "as is" and "as available" basis without warranties of any kind, whether express, implied, or statutory, including but not limited to warranties of merchantability, fitness for a particular purpose, title, or non-infringement.
-- **No Guarantee of Availability:** We do not guarantee continuous, uninterrupted, secure, or error-free access to the App or its features. Third-party services (including Firebase Firestore, our Null Ptr Service, Microsoft Clarity, and payment processors) may experience outages or interruptions that affect App functionality, and we are not liable for such disruptions.
-- **Limitation of Liability:** To the maximum extent permitted by applicable law, Backlogr Devs, its developers, officers, directors, employees, agents, and affiliates shall not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages arising from or related to your use of the App, including but not limited to loss of data, loss of profits, business interruption, or personal injury, whether based on warranty, contract, tort (including negligence), statute, or any other legal theory, even if we have been advised of the possibility of such damages. In jurisdictions that do not allow the exclusion or limitation of liability for consequential or incidental damages, our liability is limited to the maximum extent permitted by law. In any event, our total aggregate liability shall not exceed the amount you paid to us for the App in the twelve (12) months preceding the claim, or one hundred U.S. dollars ($100.00), whichever is greater.
-- **Third-Party Services:** We are not responsible for and expressly disclaim all liability related to the availability, accuracy, reliability, security, privacy practices, or content of third-party services integrated with or accessible through the App, including Firebase Firestore, our Null Ptr Service, Microsoft Clarity, and payment processors. Your use of third-party services is governed solely by their respective terms and policies.
+You may not:
 
-## 11. Indemnity
+- Reverse-engineer, decompile, modify, resell, sublicense, or redistribute
+  Backlogr except where applicable law permits it.
+- Circumvent authentication, device limits, Plus restrictions, rate limits,
+  access controls, or storage permissions.
+- Access another user’s account or data, or test security without written
+  authorization.
+- Use bots, crawlers, scraping tools, or automated requests to collect profile,
+  game, activity, or notification data.
+- Use Backlogr to stalk, harass, defraud, or coordinate unlawful activity.
+- Upload content or media for which you do not have the necessary rights.
+- Interfere with the availability, integrity, or operation of the service.
 
-You agree to indemnify and hold harmless Backlogr Devs, its developers, and affiliates from any claims, losses, or damages arising from your use of the App, violation of these Terms, or infringement of third-party rights.
+## 8. Third-Party Services and Game Data
 
-## 12. Changes to These Terms
+Backlogr may rely on third-party services, including Supabase, Google,
+Discord, Firebase Cloud Messaging, game-data providers, image providers,
+RevenueCat or app-store entitlement systems, app stores, analytics providers,
+and hosting or diagnostic providers. These services may have separate terms,
+privacy policies, availability, limits, and fees. You are responsible for
+following the applicable third-party terms.
 
-We may update these Terms to reflect changes in the App or legal requirements. We will notify you of significant changes via the App or email. Continued use of the App after changes constitutes acceptance.
+Backlogr may display game names, covers, metadata, platform identities, or
+other information obtained from third-party providers. Backlogr does not
+guarantee that third-party data is complete, accurate, current, or available.
 
-## 13. Governing Law and Dispute Resolution
+FCM is used for notification delivery. Backlogr does not put Firebase server
+credentials in the mobile app. Supabase is the target source of truth for
+Backlogr account and social data; Firebase Firestore is not the target account
+or social database for this service.
 
-These Terms are governed by the laws of Uganda, without regard to conflict of law principles. Any disputes arising from these Terms or your use of the App will be resolved in the courts of Uganda, except where prohibited by law.
+## 9. Plus, Subscriptions, and Payments
 
-## 14. Contact Us
+Plus features, prices, plans, billing periods, taxes, renewals, and availability
+are shown by the applicable app store or payment provider. Purchases are
+processed by that provider, not directly by Backlogr. We receive limited
+transaction and entitlement information needed to verify access.
 
-For questions about these Terms or general App support, please contact:
+Subscriptions generally renew according to the provider’s terms until
+cancelled through the relevant store. Cancellation normally stops future
+renewals but does not automatically refund a completed transaction. Refunds,
+billing disputes, and payment-method issues must be handled through the
+app-store or payment provider unless applicable law requires otherwise.
 
-- **Developer:** Anslem Seguya
+We may change Plus features or prices with reasonable notice. If an entitlement
+expires or a payment is reversed, Plus-only access may be removed. Custom
+profile media and web access may require an active server-verified Plus
+entitlement; client-side settings do not create entitlement rights.
+
+## 10. Intellectual Property
+
+Backlogr, its name, branding, software, interface, and original materials are
+owned by Backlogr Devs or its licensors. These Terms grant you a limited,
+revocable, non-exclusive, non-transferable license to use Backlogr for
+personal, lawful purposes. No rights are granted except those expressly stated
+in these Terms.
+
+You retain rights in your User Content. You must not remove ownership,
+copyright, trademark, or other proprietary notices from Backlogr or third-
+party content.
+
+## 11. Availability and Disclaimers
+
+Backlogr is provided on an “as is” and “as available” basis to the maximum
+extent permitted by law. We do not promise that the service will always be
+available, uninterrupted, secure, accurate, or error-free. Local data,
+third-party game data, authentication providers, FCM, Supabase, app stores,
+network connections, and other dependencies may fail or change.
+
+Backlogr is a tracking and discovery tool, not a source of medical, financial,
+legal, safety, or professional advice. You use social and game information at
+your own discretion.
+
+## 12. Suspension, Termination, and Account Deletion
+
+You may stop using Backlogr at any time. Uninstalling the app does not itself
+delete a Backlogr account or cancel a store subscription. Cancel subscriptions
+through the applicable provider and request account deletion through in-app
+account controls when available or by contacting support@backlogr.site. A web
+deletion request page will be published at https://backlogr.site/delete-account
+before store release of account-creating versions that require it.
+
+We may suspend or terminate access when reasonably necessary for security,
+abuse prevention, legal compliance, non-payment, service protection, or a
+material breach of these Terms. Where appropriate, we will provide notice or
+an opportunity to remedy the issue.
+
+After termination, your license ends. We will handle server data and User
+Content according to the Privacy Policy and applicable retention obligations.
+Local copies may remain on your devices until you delete them.
+
+## 13. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Backlogr Devs and its
+developers, officers, employees, agents, and affiliates will not be liable for
+indirect, incidental, special, consequential, exemplary, or punitive damages,
+or for loss of data, profits, goodwill, or business interruption arising from
+your use of or inability to use Backlogr or a third-party service.
+
+Nothing in these Terms excludes liability that cannot lawfully be excluded or
+limited. To the maximum extent permitted by law, our aggregate liability for
+claims relating to Backlogr will not exceed the greater of the amount you paid
+to Backlogr for the service in the preceding twelve months or US$100.
+
+## 14. Indemnity
+
+To the extent permitted by law, you agree to defend and indemnify Backlogr
+Devs and its developers, officers, employees, agents, and affiliates against
+claims, losses, liabilities, costs, and expenses arising from your User
+Content, misuse of Backlogr, violation of these Terms, or infringement of
+another person’s rights.
+
+## 15. Changes to These Terms
+
+We may update these Terms to reflect new features, providers, legal
+requirements, or security practices. We will update the effective date and may
+provide notice through the app, website, or email for material changes. Your
+continued use after the updated Terms take effect means you accept them. If
+you do not accept a change, stop using Backlogr and request account deletion
+where applicable.
+
+## 16. Governing Law
+
+These Terms are governed by the laws of Uganda, without regard to conflict-of-
+law principles. Disputes will be handled by the courts of Uganda except where
+applicable law gives you a mandatory right to use another forum or remedy.
+
+## 17. Apple App Store Additional Terms
+
+If you obtained Backlogr through Apple’s App Store:
+
+- These Terms are between you and Backlogr Devs, not Apple.
+- Apple is not responsible for Backlogr, its maintenance, support, or content.
+- Your license is limited to use on Apple-branded products that you own or
+  control and as permitted by Apple’s Usage Rules.
+- If Backlogr fails to conform to an applicable warranty, you may notify Apple
+  and Apple may refund any applicable purchase price; Backlogr Devs remains
+  responsible for other claims relating to the service to the extent required
+  by law.
+- Apple is a third-party beneficiary of these Terms and may enforce them as
+  applicable to the App Store license.
+
+## 18. Contact Us
+
+- **Developer:** Anslem Seguya / Backlogr Devs
 - **Email:** support@backlogr.site
 - **Phone:** +256 784 491 735
-- **Group:** Backlogr Devs
+- **Website:** https://backlogr.site
 
-For support with subscriptions, billing issues, or payment disputes, please contact the applicable third-party payment provider directly (e.g., Google Play Support, Apple Support).
-
-## 15. Apple App Store — Additional Terms
-
-If you downloaded the App from the Apple App Store, the following additional terms apply:
-
-- **Acknowledgement:** You and Backlogr Devs acknowledge that this Agreement is concluded between you and Backlogr Devs only, and not with Apple Inc. ("Apple"). Backlogr Devs, not Apple, is solely responsible for the App and its content.
-- **Scope of License:** The license granted to you for the App is limited to a non-transferable license to use the App on any Apple-branded products that you own or control and as permitted by the Usage Rules set forth in the Apple Media Services Terms and Conditions.
-- **Maintenance and Support:** Backlogr Devs is solely responsible for providing any maintenance and support services with respect to the App, as specified in this Agreement, or as required under applicable law. Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the App.
-- **Warranty:** In the event of any failure of the App to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the App to you (if any). To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App, and any other claims, losses, liabilities, damages, costs, or expenses attributable to any failure to conform to any warranty will be Backlogr Devs' sole responsibility.
-- **Product Claims:** Backlogr Devs, not Apple, is responsible for addressing any claims by you or any third party relating to the App or your possession and/or use of the App, including but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation.
-- **Intellectual Property Rights:** In the event of any third-party claim that the App or your possession and use of the App infringes that third party's intellectual property rights, Backlogr Devs, not Apple, will be solely responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim.
-- **Legal Compliance:** You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
-- **Third-Party Beneficiary:** You and Backlogr Devs acknowledge and agree that Apple, and Apple's subsidiaries, are third-party beneficiaries of this Agreement, and that, upon your acceptance of the terms and conditions of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary thereof.
-- **Developer Contact:** For any questions, complaints, or claims regarding the App, please contact: Anslem Seguya, support@backlogr.site.
-
-## 16. Miscellaneous
-
-- **Entire Agreement:** These Terms, along with our Privacy Policy, constitute the entire agreement between you and Backlogr Devs regarding the App.
-- **Severability:** If any provision of these Terms is found invalid, the remaining provisions remain enforceable.
-- **No Waiver:** Our failure to enforce any right or provision does not waive that right or provision.
-
-Thank you for using Backlogr!
+For store billing and refund questions, contact the applicable app-store
+support team.
