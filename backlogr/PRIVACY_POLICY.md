@@ -209,6 +209,8 @@ other server data for as long as necessary to provide the service, meet legal
 and financial obligations, resolve disputes, prevent abuse, and enforce our
 agreements. Retention periods may differ by data type.
 
+If your account has no meaningful activity for 90 consecutive days, we will mark it for deletion and notify you. If you do not sign in during the following 7-day grace period, we will delete the account and associated personal data described above, subject to legal and security retention exceptions. Sign in before the grace period ends to keep the account.
+
 When you request account deletion, we will delete or anonymize the Backlogr
 account and associated personal data, subject to information we must retain by
 law or for legitimate security, fraud-prevention, dispute, or accounting
