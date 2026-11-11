@@ -1,6 +1,6 @@
 # Política de Privacidad de Backlogr
 
-**Fecha de entrada en vigor: 30 de agosto de 2025**
+**10 de noviembre de 2026**
 
 Backlogr ("nosotros", "nos" o "nuestro") es una aplicación móvil desarrollada por Backlogr Devs, diseñada para ayudar a los usuarios a gestionar y hacer seguimiento de sus backlogs de tareas, juegos u otras actividades. Estamos comprometidos con la protección de tu privacidad y con garantizar la transparencia sobre cómo gestionamos tu información personal. Esta Política de Privacidad explica qué información recopilamos, cómo la utilizamos y tus derechos en relación con tus datos.
 
@@ -31,7 +31,11 @@ Recopilamos información para proporcionar y mejorar las funciones de la App, co
 - Cualquier dato que introduzcas en la App, como listas de backlog, notas o preferencias. De forma predeterminada, todo el contenido generado por el usuario se almacena localmente en tu dispositivo.
 - Si decides habilitar las funciones de sincronización o copia de seguridad en la nube, tus datos pueden almacenarse en Firebase Firestore para la sincronización de dispositivos y en nuestro servicio de copia de seguridad en la nube (Null Ptr Service) para copias de seguridad temporales en la nube. El almacenamiento en la nube es completamente opcional y solo se produce cuando habilitas explícitamente estas funciones.
 
-No recopilamos información personal sensible (por ejemplo, datos de salud, detalles financieros más allá de las suscripciones o datos biométricos) a menos que sea explícitamente necesario para una función y con tu consentimiento.
+
+
+### Mensajes directos y contenido multimedia compartido
+
+Si utilizas los mensajes con un amigo, almacenamos en Supabase el texto, los identificadores del remitente y la conversación, las fechas, las respuestas, las reacciones, y el título y las URL de los GIF o memes elegidos. Los mensajes no están cifrados de extremo a extremo. Se eliminan cuatro meses después de su envío, junto con las respuestas y reacciones; los registros de notificaciones se eliminan a los siete días. Las notificaciones push pueden incluir el remitente y el número de mensajes sin leer, pero no el texto. KLIPY recibe búsquedas, idioma, identificador de cliente y eventos de uso compartido al utilizar su selector; también se aplica su política.
 
 ## 2. Cómo Utilizamos tu Información
 
@@ -45,6 +49,9 @@ Utilizamos la información recopilada para los siguientes fines:
 - Cumplir con las obligaciones legales, hacer cumplir nuestros términos o proteger nuestros derechos.
 
 No utilizamos tu información para publicidad dirigida ni la vendemos a terceros.
+- Ofrecer mensajes directos, respuestas, reacciones y contenido GIF o memes compartido entre amigos.
+
+- Ofrecer mensajes directos, respuestas, reacciones y GIF o memes compartidos entre amigos.
 
 ## 3. Compartir tu Información
 
@@ -52,6 +59,8 @@ Podemos compartir tu información en circunstancias limitadas:
 
 - **Con Servicios de Terceros:** Cuando habilitas las funciones de sincronización o copia de seguridad en la nube, tus datos se comparten con Firebase Firestore para la sincronización de dispositivos y con nuestro Null Ptr Service para copias de seguridad temporales en la nube, de acuerdo con sus respectivas políticas de privacidad y condiciones de servicio.
 - **Proveedores de Servicios:** Utilizamos proveedores de servicios de terceros de confianza para análisis, diagnóstico, alojamiento y procesamiento de pagos, incluyendo, entre otros:
+- Supabase aloja los datos de cuentas, perfiles, relaciones sociales, mensajes directos y notificaciones de Backlogr. Firebase Cloud Messaging (FCM) entrega las notificaciones push; las notificaciones de mensajes no incluyen el texto del mensaje.
+- KLIPY recibe términos de búsqueda, idioma, un identificador de cliente y eventos de uso compartido cuando utilizas el selector de GIF o memes.
   - Microsoft Clarity para informes de fallos y análisis de uso
   - Firebase (Google) para almacenamiento y sincronización en la nube
   - Procesadores de pago de terceros para gestionar suscripciones premium
@@ -77,7 +86,11 @@ Conservamos tu información solo durante el tiempo necesario para los fines desc
 - Los datos de suscripción se conservan para la verificación de facturación.
 - Los datos de uso pueden anonimizarse y conservarse indefinidamente para análisis.
 
+- Los mensajes directos y sus respuestas y reacciones asociadas se eliminan automáticamente cuatro meses después del envío de cada mensaje. Los registros de notificaciones se eliminan tras siete días.
+
 Puedes solicitar la eliminación de tus datos en cualquier momento (véase la Sección 7).
+
+- Los mensajes y sus respuestas y reacciones se eliminan cuatro meses después de su envío; los registros de notificaciones, a los siete días.
 
 ## 6. Privacidad de los Menores
 

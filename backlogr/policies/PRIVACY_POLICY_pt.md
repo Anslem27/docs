@@ -1,6 +1,6 @@
 # Política de Privacidade do Backlogr
 
-**Data de Vigência: 30 de agosto de 2025**
+**10 de novembro de 2026**
 
 O Backlogr ("nós", "nos" ou "nosso") é um aplicativo móvel desenvolvido pela Backlogr Devs, projetado para ajudar os usuários a gerenciar e acompanhar seus backlogs de tarefas, jogos ou outras atividades. Estamos comprometidos em proteger sua privacidade e garantir transparência sobre como tratamos suas informações pessoais. Esta Política de Privacidade explica quais informações coletamos, como as usamos e seus direitos em relação aos seus dados.
 
@@ -33,6 +33,11 @@ Coletamos informações para fornecer e melhorar os recursos do Aplicativo, como
 
 Não coletamos informações pessoais sensíveis (por exemplo, dados de saúde, detalhes financeiros além de assinaturas ou dados biométricos) a menos que seja explicitamente exigido para um recurso e com seu consentimento.
 
+
+### Mensagens diretas e mídia compartilhada
+
+Ao trocar mensagens diretas com um amigo, armazenamos no Supabase o texto, os identificadores do remetente e da conversa, horários, respostas, reações e o título e as URLs dos GIFs ou memes escolhidos. As mensagens não são criptografadas de ponta a ponta. Elas e as respostas e reações são excluídas após quatro meses; registros de notificação, após sete dias. Notificações push podem informar remetente e quantidade de mensagens não lidas, sem o texto. Ao usar o seletor, a KLIPY recebe pesquisas, idioma, identificador de cliente e eventos de compartilhamento; a política da KLIPY também se aplica.
+
 ## 2. Como Usamos Suas Informações
 
 Usamos as informações coletadas para os seguintes propósitos:
@@ -45,6 +50,8 @@ Usamos as informações coletadas para os seguintes propósitos:
 - Cumprir obrigações legais, aplicar nossos termos ou proteger nossos direitos.
 
 Não usamos suas informações para publicidade direcionada nem as vendemos a terceiros.
+
+- Oferecer mensagens diretas, respostas, reações e compartilhamento de GIFs ou memes entre amigos.
 
 ## 3. Compartilhamento de Suas Informações
 
@@ -78,6 +85,8 @@ Retemos suas informações apenas pelo tempo necessário para os fins descritos 
 - Os dados de uso podem ser anonimizados e retidos indefinidamente para análise.
 
 Você pode solicitar a exclusão dos seus dados a qualquer momento (consulte a Seção 7).
+
+- Mensagens e respostas e reações associadas são excluídas após quatro meses; registros de notificação, após sete dias.
 
 ## 6. Privacidade de Crianças
 

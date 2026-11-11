@@ -1,6 +1,6 @@
 # Informativa sulla Privacy di Backlogr
 
-**Data di entrata in vigore: 30 agosto 2025**
+**10 novembre 2026**
 
 Backlogr ("noi", "ci" o "nostro") è un'applicazione mobile sviluppata da Backlogr Devs, progettata per aiutare gli utenti a gestire e monitorare i propri backlog per attività, giochi o altre occupazioni. Siamo impegnati a proteggere la tua privacy e a garantire la trasparenza su come trattiamo le tue informazioni personali. Questa Informativa sulla Privacy spiega quali informazioni raccogliamo, come le utilizziamo e i tuoi diritti riguardo ai tuoi dati.
 
@@ -33,6 +33,11 @@ Raccogliamo informazioni per fornire e migliorare le funzionalità dell'App, com
 
 Non raccogliamo informazioni personali sensibili (ad esempio, dati sanitari, dettagli finanziari oltre agli abbonamenti o dati biometrici) a meno che non sia esplicitamente richiesto per una funzionalità e con il tuo consenso.
 
+
+### Messaggi diretti e contenuti multimediali condivisi
+
+Quando scambi messaggi diretti con un amico, conserviamo su Supabase il testo, gli identificativi del mittente e della conversazione, gli orari, le risposte, le reazioni e il titolo e gli URL dei GIF o meme scelti. I messaggi non sono crittografati end-to-end. Sono eliminati dopo quattro mesi insieme a risposte e reazioni; i record delle notifiche dopo sette giorni. Le notifiche push possono indicare mittente e numero di messaggi non letti, ma non il testo. Usando il selettore, KLIPY riceve ricerche, lingua, identificativo cliente ed eventi di condivisione; si applica anche la sua informativa.
+
 ## 2. Come utilizziamo le tue informazioni
 
 Utilizziamo le informazioni raccolte per i seguenti scopi:
@@ -45,6 +50,8 @@ Utilizziamo le informazioni raccolte per i seguenti scopi:
 - Rispettare gli obblighi legali, applicare i nostri termini o proteggere i nostri diritti.
 
 Non utilizziamo le tue informazioni per pubblicità mirata né le vendiamo a terze parti.
+
+- Fornire messaggi diretti, risposte, reazioni e condivisione di GIF o meme tra amici.
 
 ## 3. Condivisione delle tue informazioni
 
@@ -78,6 +85,8 @@ Conserviamo le tue informazioni solo per il tempo necessario agli scopi descritt
 - I dati di utilizzo potrebbero essere anonimizzati e conservati indefinitamente per analisi.
 
 Puoi richiedere la cancellazione dei tuoi dati in qualsiasi momento (consulta la Sezione 7).
+
+- I messaggi e le relative risposte e reazioni vengono eliminati dopo quattro mesi; i record delle notifiche dopo sette giorni.
 
 ## 6. Privacy dei minori
 

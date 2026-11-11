@@ -1,6 +1,6 @@
 # Política de Privacidad de Backlogr
 
-**Fecha de vigencia: 30 de agosto de 2025**
+**10 de noviembre de 2026**
 
 Backlogr ("nosotros", "nos" o "nuestro") es una aplicación móvil desarrollada por Backlogr Devs, diseñada para ayudar a los usuarios a gestionar y hacer seguimiento de sus pendientes de tareas, juegos u otras actividades. Estamos comprometidos con la protección de tu privacidad y a garantizar la transparencia sobre cómo manejamos tu información personal. Esta Política de Privacidad explica qué información recopilamos, cómo la utilizamos y tus derechos con respecto a tus datos.
 
@@ -33,6 +33,11 @@ Recopilamos información para proveer y mejorar las funciones de la App, como el
 
 No recopilamos información personal sensible (por ejemplo, datos de salud, detalles financieros más allá de las suscripciones o datos biométricos) a menos que sea explícitamente requerido para una función y con tu consentimiento.
 
+
+### Mensajes directos y medios compartidos
+
+Si usas los mensajes con un amigo, almacenamos en Supabase el texto, los identificadores del remitente y la conversación, las fechas, las respuestas, las reacciones, y el título y las URL de los GIF o memes que elijas. Los mensajes no tienen cifrado de extremo a extremo. Se eliminan cuatro meses después de enviarse, junto con las respuestas y reacciones; los registros de notificaciones se eliminan a los siete días. Las notificaciones push pueden incluir quién envió mensajes y cuántos están sin leer, pero no el texto. KLIPY recibe búsquedas, idioma, identificador de cliente y eventos de contenido compartido al usar su selector; también aplica su política.
+
 ## 2. Cómo Usamos tu Información
 
 Usamos la información recopilada para los siguientes propósitos:
@@ -45,6 +50,8 @@ Usamos la información recopilada para los siguientes propósitos:
 - Cumplir con obligaciones legales, hacer cumplir nuestros términos o proteger nuestros derechos.
 
 No usamos tu información para publicidad dirigida ni la vendemos a terceros.
+
+- Ofrecer mensajes directos, respuestas, reacciones y GIF o memes compartidos entre amigos.
 
 ## 3. Compartir tu Información
 
@@ -78,6 +85,8 @@ Conservamos tu información solo durante el tiempo necesario para los propósito
 - Los datos de uso pueden anonimizarse y conservarse indefinidamente para análisis.
 
 Puedes solicitar la eliminación de tus datos en cualquier momento (ver Sección 7).
+
+- Los mensajes y sus respuestas y reacciones se eliminan cuatro meses después de enviarse; los registros de notificaciones, a los siete días.
 
 ## 6. Privacidad de los Menores
 

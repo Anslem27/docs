@@ -1,6 +1,6 @@
 # Integritetspolicy för Backlogr
 
-**Ikraftträdandedatum: 30 augusti 2025**
+**10 november 2026**
 
 Backlogr ("vi", "oss" eller "vår") är en mobilapplikation utvecklad av Backlogr Devs, utformad för att hjälpa användare att hantera och spåra sina backlogs för uppgifter, spel eller andra aktiviteter. Vi är engagerade i att skydda din integritet och säkerställa transparens kring hur vi hanterar dina personuppgifter. Denna integritetspolicy förklarar vilken information vi samlar in, hur vi använder den och dina rättigheter gällande dina uppgifter.
 
@@ -33,6 +33,11 @@ Vi samlar in information för att tillhandahålla och förbättra Appens funktio
 
 Vi samlar inte in känslig personlig information (t.ex. hälsodata, ekonomiska uppgifter utöver prenumerationer eller biometriska data) om det inte uttryckligen krävs för en funktion och med ditt samtycke.
 
+
+### Direktmeddelanden och delat medieinnehåll
+
+När du skickar direktmeddelanden till en vän lagrar vi text, avsändar- och konversations-ID, tider, svar, reaktioner samt titel och URL:er för valda GIF-bilder eller memes i Supabase. Meddelandena är inte end-to-end-krypterade. Meddelanden och tillhörande svar och reaktioner raderas efter fyra månader; notisuppgifter efter sju dagar. Pushnotiser kan visa avsändaren och antalet olästa meddelanden, men inte texten. När väljaren används får KLIPY sökningar, språk, kund-ID och delningshändelser; KLIPY:s policy gäller också.
+
 ## 2. Hur vi använder din information
 
 Vi använder den insamlade informationen för följande ändamål:
@@ -45,6 +50,8 @@ Vi använder den insamlade informationen för följande ändamål:
 - Efterleva rättsliga skyldigheter, upprätthålla våra villkor eller skydda våra rättigheter.
 
 Vi använder inte din information för riktad reklam och säljer den inte till tredje parter.
+
+- Tillhandahålla direktmeddelanden, svar, reaktioner och delning av GIF-bilder eller memes mellan vänner.
 
 ## 3. Delning av din information
 
@@ -78,6 +85,8 @@ Vi behåller din information endast så länge som är nödvändigt för de änd
 - Användningsdata kan anonymiseras och behållas på obestämd tid för analys.
 
 Du kan begära radering av dina data när som helst (se Avsnitt 7).
+
+- Meddelanden och tillhörande svar och reaktioner raderas efter fyra månader; notisuppgifter efter sju dagar.
 
 ## 6. Barns integritet
 

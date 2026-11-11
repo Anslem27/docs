@@ -1,6 +1,6 @@
 # Kebijakan Privasi Backlogr
 
-**Tanggal Berlaku: 30 Agustus 2025**
+**10 November 2026**
 
 Backlogr ("kami" atau "milik kami") adalah aplikasi seluler yang dikembangkan oleh Backlogr Devs, dirancang untuk membantu pengguna mengelola dan melacak backlog mereka untuk tugas, game, atau aktivitas lainnya. Kami berkomitmen untuk melindungi privasi Anda dan memastikan transparansi tentang cara kami menangani informasi pribadi Anda. Kebijakan Privasi ini menjelaskan informasi apa yang kami kumpulkan, bagaimana kami menggunakannya, dan hak Anda terkait data Anda.
 
@@ -33,6 +33,11 @@ Kami mengumpulkan informasi untuk menyediakan dan meningkatkan fitur Aplikasi, s
 
 Kami tidak mengumpulkan informasi pribadi yang sensitif (misalnya, data kesehatan, detail keuangan di luar langganan, atau data biometrik) kecuali jika secara eksplisit diperlukan untuk suatu fitur dan dengan persetujuan Anda.
 
+
+### Pesan langsung dan media yang dibagikan
+
+Saat Anda berkirim pesan langsung dengan teman, kami menyimpan isi pesan, ID pengirim dan percakapan, waktu, balasan, reaksi, serta judul dan URL GIF atau meme pilihan di Supabase. Pesan tidak dienkripsi end-to-end. Pesan beserta balasan dan reaksinya dihapus empat bulan setelah dikirim; catatan notifikasi dihapus setelah tujuh hari. Notifikasi push dapat menyebut pengirim dan jumlah pesan yang belum dibaca, tanpa isi pesan. Saat pemilih digunakan, KLIPY menerima pencarian, bahasa, ID pelanggan, dan peristiwa berbagi media; kebijakan KLIPY juga berlaku.
+
 ## 2. Cara Kami Menggunakan Informasi Anda
 
 Kami menggunakan informasi yang dikumpulkan untuk tujuan berikut:
@@ -45,6 +50,8 @@ Kami menggunakan informasi yang dikumpulkan untuk tujuan berikut:
 - Mematuhi kewajiban hukum, menegakkan ketentuan kami, atau melindungi hak kami.
 
 Kami tidak menggunakan informasi Anda untuk iklan bertarget atau menjualnya kepada pihak ketiga.
+
+- Menyediakan pesan langsung, balasan, reaksi, serta berbagi GIF atau meme antar teman.
 
 ## 3. Berbagi Informasi Anda
 
@@ -78,6 +85,8 @@ Kami menyimpan informasi Anda hanya selama diperlukan untuk tujuan yang diuraika
 - Data penggunaan mungkin dianonimkan dan disimpan tanpa batas waktu untuk analitik.
 
 Anda dapat meminta penghapusan data Anda kapan saja (lihat Bagian 7).
+
+- Pesan beserta balasan dan reaksinya dihapus empat bulan setelah dikirim; catatan notifikasi dihapus setelah tujuh hari.
 
 ## 6. Privasi Anak-anak
 

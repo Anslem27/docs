@@ -1,6 +1,6 @@
 # Privacy Policy for Backlogr
 
-**Effective Date: August 12, 2026**
+**Effective Date: November 10, 2026**
 
 Backlogr ("Backlogr", "we", "us", or "our") is a game backlog and social
 tracking application operated by Backlogr Devs. This Privacy Policy explains
@@ -8,9 +8,10 @@ what information we collect, why we use it, where it is stored, who processes
 it, and the choices available to you when you use the Backlogr mobile app,
 the Backlogr website, or related services.
 
-Backlogr is designed as a casual social layer around game tracking. It is not
-a messaging service, does not provide an algorithmic public feed, and does not
-sell personal information or use it for targeted advertising.
+Backlogr is designed as a casual social layer around game tracking. It
+provides direct messaging between friends but does not provide an algorithmic
+public feed. We do not sell personal information or use it for targeted
+advertising.
 
 ## 1. Information We Collect
 
@@ -54,11 +55,28 @@ events, and other profile content may be visible to other Backlogr users when
 you choose a public or friends-only setting. Do not include sensitive personal
 information in a public profile or biography.
 
-Backlogr is not currently a messaging service. We do not provide private chat
-or user-to-user messaging through the social features described in this
-policy.
+### c. Direct messages and shared media
 
-### c. Backlog, gameplay, and social activity information
+If you use direct messaging with a friend, we collect and store message text,
+sender and conversation identifiers, timestamps, reply references, emoji
+reactions, and the title and media/preview URLs of selected GIFs or memes.
+Messages are available to the members of that conversation under our access
+controls; they are not end-to-end encrypted. Do not send passwords, financial
+details, or other sensitive information in a message.
+
+Messages and their associated replies and reactions are automatically deleted
+four months after each message is sent. You can delete your own messages sooner
+where that feature is available. Some push notifications summarize the sender
+and unread message count, without including message text. Notification records
+are kept for up to seven days.
+
+When you search or browse the GIF and meme picker, your search term (if any),
+locale, and a KLIPY customer identifier are sent to KLIPY to return results and
+record media sharing. If you choose an item, Backlogr stores its title and
+media/preview URLs with the message; KLIPY serves the media itself. KLIPY's own
+terms and privacy practices also apply.
+
+### d. Backlog, gameplay, and social activity information
 
 Depending on the features you use, we may store or process:
 
@@ -74,7 +92,7 @@ Activity visibility is controlled by your settings. Friends-only activity is
 intended to be visible only to the relevant mutual friends. Public profile
 information is visible according to your selected profile settings.
 
-### d. Device and notification information
+### e. Device and notification information
 
 For signed-in mobile devices, we may collect:
 
@@ -92,7 +110,7 @@ version.
 You can control Backlogr notification categories in notification settings and
 can also disable notifications through your operating-system settings.
 
-### e. Subscription and entitlement information
+### f. Subscription and entitlement information
 
 Plus subscriptions and purchases are processed by the applicable app-store or
 payment provider, such as Google Play Billing or Apple’s App Store when that
@@ -104,7 +122,7 @@ product/plan information, entitlement status, expiry information, and the
 provider that verified the entitlement. This information is used to provide
 Plus features such as eligible custom profile media and other product access.
 
-### f. Analytics, diagnostics, and technical information
+### g. Analytics, diagnostics, and technical information
 
 We may collect technical information needed to operate and improve Backlogr,
 including app version, operating system, device type, IP address, crash data,
@@ -117,7 +135,7 @@ We do not use this information for targeted advertising. We will update this
 policy before introducing advertising, precise location collection, contacts
 access, health data, biometric data, or other materially different collection.
 
-### g. Local storage and offline cache
+### h. Local storage and offline cache
 
 Backlog data, preferences, session state, cached profiles, and notification
 history may be stored locally on your device to support offline use and fast
@@ -131,8 +149,8 @@ clear app data, or uninstall the app.
 We use information to:
 
 - Create, authenticate, maintain, and secure your Backlogr account.
-- Provide backlog tracking, profile, friends, activity, notification, and
-  cross-device features that you request.
+- Provide backlog tracking, profiles, friend features, direct messaging,
+  activity, notifications, and cross-device features that you request.
 - Display your profile and social content according to your visibility and
   activity settings.
 - Store and display profile media you select or upload, subject to Plus
@@ -155,16 +173,21 @@ profile.
 We share information only as needed to operate Backlogr:
 
 - **Supabase:** Supabase Auth, Postgres, Storage, and related infrastructure
-  host account, profile, social, device, notification, entitlement, and other
-  Backlogr data. Access is protected by authentication and database/storage
-  permissions.
+  host account, profile, social, direct-message, device, notification,
+  entitlement, and other Backlogr data. Access is protected by authentication
+  and database/storage permissions.
 - **Google and Discord:** The provider receives authentication requests when
   you choose that provider. We receive the basic identity information that the
   provider returns and store only the Backlogr profile/provider details needed
   for account functionality.
 - **Firebase Cloud Messaging:** FCM receives device tokens and notification
-  payloads required to deliver push notifications. Backlogr does not place
-  Firebase server credentials in the app.
+  payloads required to deliver push notifications. Message notifications may
+  include the sender and unread count, but not message text. Backlogr does not
+  place Firebase server credentials in the app.
+- **KLIPY:** When you use the GIF or meme picker, KLIPY receives search terms,
+  locale, a customer identifier, and media-sharing events needed to return and
+  track selected media. Selected media URLs are stored with the message in
+  Supabase.
 - **Apple, Google Play, and payment providers:** These providers process app
   purchases and provide limited transaction or entitlement information needed
   to verify Plus access.
@@ -183,7 +206,8 @@ OAuth client secrets, or payment-card details.
 ## 4. User-Generated Content and Safety
 
 Backlogr profiles, bios, avatars, backgrounds, platform summaries, activity,
-and other social content may be user-generated. You are responsible for the
+direct messages, reactions, and other social content may be user-generated.
+You are responsible for the
 content you submit and must not submit unlawful, abusive, hateful, sexually
 explicit, infringing, deceptive, or privacy-invasive content.
 
@@ -207,7 +231,11 @@ protecting your device and keeping your identity-provider account secure.
 We retain account, profile, social, device, notification, subscription, and
 other server data for as long as necessary to provide the service, meet legal
 and financial obligations, resolve disputes, prevent abuse, and enforce our
-agreements. Retention periods may differ by data type.
+agreements. Retention periods may differ by data type. Direct messages and
+their associated replies and reactions are automatically deleted four months
+after each message is sent. Notification records are deleted after seven
+days. Limited copies may remain temporarily in backups or security records
+where needed for recovery, legal compliance, or abuse prevention.
 
 If your account has no meaningful activity for 90 consecutive days, we will mark it for deletion and notify you. If you do not sign in during the following 7-day grace period, we will delete the account and associated personal data described above, subject to legal and security retention exceptions. Sign in before the grace period ends to keep the account.
 

@@ -1,6 +1,6 @@
 # Politique de Confidentialité de Backlogr
 
-**Date d'entrée en vigueur : 30 août 2025**
+**10 novembre 2026**
 
 Backlogr (« nous », « notre » ou « nos ») est une application mobile développée par Backlogr Devs, conçue pour aider les utilisateurs à gérer et suivre leurs listes de tâches, jeux ou autres activités. Nous nous engageons à protéger votre vie privée et à garantir la transparence sur la façon dont nous traitons vos informations personnelles. Cette Politique de Confidentialité explique quelles informations nous collectons, comment nous les utilisons et vos droits concernant vos données.
 
@@ -33,6 +33,11 @@ Nous collectons des informations pour fournir et améliorer les fonctionnalités
 
 Nous ne collectons pas d'informations personnelles sensibles (par exemple, données de santé, détails financiers au-delà des abonnements ou données biométriques) sauf si cela est explicitement requis pour une fonctionnalité et avec votre consentement.
 
+
+### Messages directs et médias partagés
+
+Si vous échangez des messages avec un ami, nous stockons dans Supabase leur texte, les identifiants de l’expéditeur et de la conversation, les dates, les réponses, les réactions, ainsi que le titre et les URL des GIF ou mèmes choisis. Les messages ne sont pas chiffrés de bout en bout. Ils sont supprimés après quatre mois, avec leurs réponses et réactions ; les notifications sont supprimées après sept jours. Les notifications push peuvent indiquer l’expéditeur et le nombre de messages non lus, sans leur texte. KLIPY reçoit les recherches, la langue, l’identifiant client et les événements de partage lors de l’utilisation de son sélecteur ; sa politique s’applique également.
+
 ## 2. Comment nous utilisons vos informations
 
 Nous utilisons les informations collectées aux fins suivantes :
@@ -45,6 +50,8 @@ Nous utilisons les informations collectées aux fins suivantes :
 - Respecter les obligations légales, faire respecter nos conditions ou protéger nos droits.
 
 Nous n'utilisons pas vos informations à des fins de publicité ciblée et ne les vendons pas à des tiers.
+
+- Fournir la messagerie directe, les réponses, les réactions et le partage de GIF ou de mèmes entre amis.
 
 ## 3. Partage de vos informations
 
@@ -78,6 +85,8 @@ Nous conservons vos informations uniquement aussi longtemps que nécessaire aux 
 - Les données d'utilisation peuvent être anonymisées et conservées indéfiniment à des fins d'analyse.
 
 Vous pouvez demander la suppression de vos données à tout moment (voir la Section 7).
+
+- Les messages et leurs réponses et réactions sont supprimés quatre mois après leur envoi ; les notifications, après sept jours.
 
 ## 6. Vie privée des enfants
 

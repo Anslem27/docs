@@ -1,6 +1,6 @@
 # Terms of Use for Backlogr
 
-**Effective Date: August 12, 2026**
+**Effective Date: November 10, 2026**
 
 These Terms of Use ("Terms") govern your use of Backlogr, a game backlog and
 social tracking service operated by Backlogr Devs ("Backlogr", "we", "us", or
@@ -29,12 +29,20 @@ optionally connect with friends. Features may include:
   backgrounds, and profile visibility controls.
 - Optional friend requests, friendships, activity events, co-play discovery,
   and in-app or push notifications.
+- Direct messages between friends, including text, replies, emoji reactions,
+  and GIFs or memes selected through the KLIPY media picker.
 - Device registration and offline caching for signed-in mobile users.
 - Plus features and entitlements verified through the relevant app store or
   payment provider.
 
-Backlogr is not a messaging service. It does not provide private chat, and
-co-play features do not create a communication channel between users.
+Direct messages are available only between conversation members through
+Backlogr's access controls. They are not end-to-end encrypted, so do not use
+them to send passwords, financial details, or other sensitive information.
+Messages and their reactions are automatically deleted four months after they
+are sent; you may delete your own messages sooner where that feature is
+available. When message notifications are enabled, a push notification may
+summarize the sender and unread message count without including the message
+text.
 
 Features may be changed, limited, suspended, or discontinued. The mobile app
 is currently the place where a new Backlogr account is created; web access and
@@ -73,7 +81,8 @@ operating system or the user.
 
 You retain ownership of content you submit to Backlogr, including backlog
 data, notes, ratings, lists, bios, profile names, uploaded avatars,
-backgrounds, screenshots, and activity information ("User Content"). You are
+backgrounds, screenshots, activity information, and direct messages, including
+replies, reactions, and selected media links ("User Content"). You are
 responsible for having the rights and permissions needed to submit it.
 
 You grant Backlogr a non-exclusive, worldwide, royalty-free license to host,
@@ -128,9 +137,10 @@ You may not:
 ## 8. Third-Party Services and Game Data
 
 Backlogr may rely on third-party services, including Supabase, Google,
-Discord, Firebase Cloud Messaging, game-data providers, image providers,
-RevenueCat or app-store entitlement systems, app stores, analytics providers,
-and hosting or diagnostic providers. These services may have separate terms,
+Discord, Firebase Cloud Messaging, KLIPY for GIF and meme search and sharing,
+game-data providers, image providers, RevenueCat or app-store entitlement
+systems, app stores, analytics providers, and hosting or diagnostic providers.
+These services may have separate terms,
 privacy policies, availability, limits, and fees. You are responsible for
 following the applicable third-party terms.
 
